@@ -1,0 +1,364 @@
+[
+    {
+        "No": 1,
+        "full_name": "John Doe",
+        "Realationship": "Brother",
+        "Mobile_No": "1234567890",
+        "Contact_type": "Family"
+    },
+    {
+        "No": 2,
+        "full_name": "Jane Smith",
+        "Realationship": "Friend",
+        "Mobile_No": "0987654321",
+        "Contact_type": "Personal"
+    },
+    {
+        "No": 3,
+        "full_name": "Bob Johnson",
+        "Realationship": "Colleague",
+        "Mobile_No": "1111111111",
+        "Contact_type": "Professional"
+    },
+    {
+        "No": 4,
+        "full_name": "David",
+        "Realationship": "Friend",
+        "Mobile_No": "2222222222",
+        "Contact_type": "Personal"
+    },
+    {
+        "No": 5,
+        "full_name": "Sophia",
+        "Realationship": "Sister",
+        "Mobile_No": "3333333333",
+        "Contact_type": "Family"
+    },
+    {
+        "No": 6,
+        "full_name": "Michael",
+        "Realationship": "Father",
+        "Mobile_No": "4444444444",
+        "Contact_type": "Family"
+    },
+    {
+        "No": 7,
+        "full_name": "Emily",
+        "Realationship": "Mother",
+        "Mobile_No": "5555555555",
+        "Contact_type": "Family"
+    },
+    {
+        "No": 8,
+        "full_name": "Jacob",
+        "Realationship": "Brother",
+        "Mobile_No": "6666666666",
+        "Contact_type": "Family"
+    },
+    {
+        "No": 9,
+        "full_name": "Madison",
+        "Realationship": "Sister",
+        "Mobile_No": "7777777777",
+        "Contact_type": "Family"
+    },
+    {
+        "No": 10,
+        "full_name": "Ethan",
+        "Realationship": "Son",
+        "Mobile_No": "8888888888",
+        "Contact_type": "Family"
+    },
+    {
+        "No": 11,
+        "full_name": "Abigail",
+        "Realationship": "Daughter",
+        "Mobile_No": "9999999999",
+        "Contact_type": "Family"
+    },
+    {
+        "No": 12,
+        "full_name": "Michael",
+        "Realationship": "Brother-in-law",
+        "Mobile_No": "0000000000",
+        "Contact_type": "Family"
+    },
+    {
+        "No": 12,
+        "full_name": "Michael",
+        "Realationship": "Brother-in-law",
+        "Mobile_No": "0000000000",
+        "Contact_type": "Family"
+    },
+     {
+        "No": 13,
+        "full_name": "Emily",
+        "Realationship": "Sister-in-law",
+        "Mobile_No": "1111111111",
+        "Contact_type": "Family"
+    },
+    {
+        "No": 14,
+        "full_name": "Jacob",
+        "Realationship": "Uncle",
+        "Mobile_No": "2222222222",
+        "Contact_type": "Family"
+    },
+    {
+        "No": 15,
+        "full_name": "Madison",
+        "Realationship": "Aunt",
+        "Mobile_No": "3333333333",
+        "Contact_type": "Family"
+    },
+    {
+        "No": 16,
+        "full_name": "Ethan",
+        "Realationship": "Nephew",
+        "Mobile_No": "4444444444",
+        "Contact_type": "Family"
+    },
+    {
+        "No": 17,
+        "full_name": "Abigail",
+        "Realationship": "Niece",
+        "Mobile_No": "5555555555",
+        "Contact_type": "Family"
+    },
+    {
+        "No": 18,
+        "full_name": "Michael",
+        "Realationship": "Grandfather",
+        "Mobile_No": "6666666666",
+        "Contact_type": "Family"
+    },
+    {
+        "No": 19,
+        "full_name": "Emily",
+        "Realationship": "Grandmother",
+        "Mobile_No": "7777777777",
+        "Contact_type": "Family"
+    },
+    {
+        "No": 20,
+        "full_name": "Jacob",
+        "Realationship": "Cousin",
+        "Mobile_No": "8888888888",
+        "Contact_type": "Family"
+    },
+    {
+        "No": 21,
+        "full_name": "Madison",
+        "Realationship": "Friend",
+        "Mobile_No": "9999999999",
+        "Contact_type": "Personal"
+    },
+    {
+        "No": 22,
+        "full_name": "Ethan",
+        "Realationship": "Colleague",
+        "Mobile_No": "0000000000",
+        "Contact_type": "Professional"
+    },
+    {
+        "No": 23,
+        "full_name": "Abigail",
+        "Realationship": "Acquaintance",
+        "Mobile_No": "1111111111",
+        "Contact_type": "Professional"
+    },
+    {
+        "No": 24,
+        "full_name": "Michael",
+        "Realationship": "Friend",
+        "Mobile_No": "2222222222",
+        "Contact_type": "Personal"
+    },
+    {
+        "No": 25,
+        "full_name": "Emily",
+        "Realationship": "Colleague",
+        "Mobile_No": "3333333333",
+        "Contact_type": "Professional"
+    },
+      {
+        "No": 26,
+        "full_name": "Jacob",
+        "Realationship": "Acquaintance",
+        "Mobile_No": "4444444444",
+        "Contact_type": "Professional"
+    },
+    {
+        "No": 27,
+        "full_name": "Madison",
+        "Realationship": "Friend",
+        "Mobile_No": "5555555555",
+        "Contact_type": "Personal"
+    },
+    {
+        "No": 28,
+        "full_name": "Ethan",
+        "Realationship": "Colleague",
+        "Mobile_No": "6666666666",
+        "Contact_type": "Professional"
+    },
+    {
+        "No": 29,
+        "full_name": "Abigail",
+        "Realationship": "Acquaintance",
+        "Mobile_No": "7777777777",
+        "Contact_type": "Professional"
+    },
+      {
+        "No": 30,
+        "full_name": "Mark",
+        "Realationship": "Friend",
+        "Mobile_No": "0101010101",
+        "Contact_type": "Personal"
+    },
+    {
+        "No": 31,
+        "full_name": "Christine",
+        "Realationship": "Sister",
+        "Mobile_No": "1010101010",
+        "Contact_type": "Family"
+    },
+    {
+        "No": 32,
+        "full_name": "Lisa",
+        "Realationship": "Mother",
+        "Mobile_No": "2020202020",
+        "Contact_type": "Family"
+    },
+    {
+        "No": 33,
+        "full_name": "Ben",
+        "Realationship": "Brother",
+        "Mobile_No": "3030303030",
+        "Contact_type": "Family"
+    },
+    {
+        "No": 34,
+        "full_name": "Sara",
+        "Realationship": "Daughter",
+        "Mobile_No": "4040404040",
+        "Contact_type": "Family"
+    },
+    {
+        "No": 35,
+        "full_name": "James",
+        "Realationship": "Son",
+        "Mobile_No": "5050505050",
+        "Contact_type": "Family"
+    },
+    {
+        "No": 36,
+        "full_name": "Emily",
+        "Realationship": "Wife",
+        "Mobile_No": "6060606060",
+        "Contact_type": "Family"
+    },
+    {
+        "No": 37,
+        "full_name": "Michael",
+        "Realationship": "Husband",
+        "Mobile_No": "7070707070",
+        "Contact_type": "Family"
+    },
+    {
+        "No": 38,
+        "full_name": "Jacob",
+        "Realationship": "Brother-in-law",
+        "Mobile_No": "8080808080",
+        "Contact_type": "Family"
+    },
+    {
+        "No": 39,
+        "full_name": "Madison",
+        "Realationship": "Sister-in-law",
+        "Mobile_No": "9090909090",
+        "Contact_type": "Family"
+    },
+    {
+        "No": 40,
+        "full_name": "Ethan",
+        "Realationship": "Uncle",
+        "Mobile_No": "1231231234",
+        "Contact_type": "Family"
+    },
+    {
+        "No": 41,
+        "full_name": "Abigail",
+        "Realationship": "Aunt",
+        "Mobile_No": "2345678901",
+        "Contact_type": "Family"
+    },
+    {
+        
+        "No": 42,
+        "full_name": "Abigail",
+        "Realationship": "Aunt",
+        "Mobile_No": "2345678901",
+        "Contact_type": "Family"
+
+    },
+      {
+        "No": 43,
+        "full_name": "Emily",
+        "Realationship": "Niece",
+        "Mobile_No": "4567890123",
+        "Contact_type": "Family"
+    },
+    {
+        "No": 44,
+        "full_name": "Jacob",
+        "Realationship": "Grandfather",
+        "Mobile_No": "5678901234",
+        "Contact_type": "Family"
+    },
+    {
+        "No": 45,
+        "full_name": "Madison",
+        "Realationship": "Grandmother",
+        "Mobile_No": "6789012345",
+        "Contact_type": "Family"
+    },
+    {
+        "No": 46,
+        "full_name": "Ethan",
+        "Realationship": "Cousin",
+        "Mobile_No": "7890123456",
+        "Contact_type": "Family"
+    },
+    {
+        "No": 47,
+        "full_name": "Abigail",
+        "Realationship": "Friend",
+        "Mobile_No": "8901234567",
+        "Contact_type": "Personal"
+    },
+    {
+        "No": 48,
+        "full_name": "Michael",
+        "Realationship": "Colleague",
+        "Mobile_No": "9012345678",
+        "Contact_type": "Professional"
+    },
+    {
+        "No": 49,
+        "full_name": "Emily",
+        "Realationship": "Acquaintance",
+        "Mobile_No": "0123456789",
+        "Contact_type": "Professional"
+    },
+    {
+        "No": 50,
+        "full_name": "Jacob",
+        "Realationship": "Friend",
+        "Mobile_No": "1234567890",
+        "Contact_type": "Personal"
+    }
+]
+
+
+
